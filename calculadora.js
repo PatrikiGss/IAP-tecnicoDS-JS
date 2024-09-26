@@ -1,17 +1,4 @@
-<html>
-<head>
-    
-    <title>Exemplo - Uso Correto de Constantes</title>
-</head>
-<body>
-    <div>
-        
-        <h1>Calculadora Básica</h1>
-        <p></p>
-    </div>
-</body>
 
-<script type='text/javascript'>
     // Função para verificar se o valor é um número válido
     function isNumber(value) {
         //para rodar o codigo no navelador renomealo para index.html e usar o live server
@@ -72,6 +59,3 @@
             }
             break;
     }
-</script>
-
-</html>
