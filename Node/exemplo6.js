@@ -7,6 +7,6 @@ function Fibonacci(n1){
     }
     return fibonacci;
 }
-var mostra=Fibonacci(10);
+var mostra=Fibonacci(5);
 
 console.log(mostra); 
