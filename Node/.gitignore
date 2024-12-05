@@ -1,0 +1,34 @@
+# Dependências
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Builds e gerados
+dist/
+build/
+.next/
+out/
+
+# Configurações locais
+.env
+
+# Caches e temporários
+.cache/
+.parcel-cache/
+coverage/
+tmp/
+
+# Configuração de IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
